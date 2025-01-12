@@ -31,7 +31,7 @@ whoami = [
 
 social = [
   "<br>",
-  'linkedin   <a href="https://www.linkedin.com/in/ufuk-kılıç-111365177/" target="_blank">linkedin/ufukkilic</a>',
+  'linkedin   <a href="https://www.linkedin.com/in/ufukk%C4%B1l%C4%B1%C3%A7" target="_blank">linkedin/ufukkilic</a>',
   'github     <a href="https://github.com/ufukkilicc" target="_blank">github/ufukkilic</a>',
   "<br>",
 ];
